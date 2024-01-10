@@ -26,12 +26,6 @@ I love building user interfaces and crafting delightful user experiences.
 
 ### Connect with Me:
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/hosam--sharaf-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-asar-594353290/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/Ahmed--Asar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-asar-594353290/)
 - Email: [![Email](https://img.shields.io/badge/ahmedsamirassar@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedsamirassar@gmail.com)
 
-### My GitHub Stats
-
-![Hosam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosam-eddin&show_icons=true)
-
-
-⭐️ From [Hosam Sharaf](https://github.com/L1cardo)
